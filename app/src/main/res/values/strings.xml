@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to</string>
+    <string name="class_title">CSE 110</string>
+    <string name="softwareng">Software Engineering</string>
+    <string name="quarter">Spring 2016</string>
+</resources>
