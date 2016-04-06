@@ -35,7 +35,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceLarge"
-            android:text="@string/class_title"
+            android:text="CSE 110 Modified"
             android:id="@+id/textView2"
             android:layout_gravity="center_horizontal"
             android:textColor="#2E75B6"
